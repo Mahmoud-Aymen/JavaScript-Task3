@@ -1,0 +1,71 @@
+*{
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background-color: #F7ECDE;
+}
+
+h1{
+    position: relative;
+    text-align: center;
+}
+
+.b-t{
+    background-color: #BB4120 !important;
+    color: white;
+    border: none;
+    padding: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.one{
+    background-color: tomato;
+    width: 20px;
+    height: 20px;
+}
+
+.two{
+    background-color: yellow;
+    width: 20px;
+    height: 20px;
+}
+
+.three{
+    background-color: green;
+    width: 20px;
+    height: 20px;
+}
+
+#message{
+    background-color: white;
+    width: 40%;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    margin-top: 20px !important;
+}
+
+#message p{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#message ul li i{
+    color: tomato;
+}
+
+#message span{
+    font-size: 20px;
+}
+
+#message button{
+    border: none;
+    background-color: transparent;
+}
+
